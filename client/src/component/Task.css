@@ -1,0 +1,14 @@
+body{
+    background-color: #ffeae5;
+}
+
+.tachado{
+    text-decoration: line-through;
+    color: indianred;
+}
+
+button{
+    background-color: #ffdce2;
+    border-radius: 5px;
+    border: solid 1px;
+}
